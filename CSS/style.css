@@ -294,7 +294,7 @@
     .hero .hero-image {
         position: relative;
         text-align: right;
-        padding-right: 75px;
+        padding-right: 200px;
         width: 80%;
         vertical-align: top;
         /* background-color: white; 
@@ -628,6 +628,7 @@
             padding: 240px 15px 0 15px;
         }
     }
+
 
     /*******************************/
     /******* Experience CSS ********/
