@@ -37,26 +37,26 @@
 				src="https://img.shields.io/badge/-MySQL%20-lightgrey"
 				alt="MySQL"
 			/>
-		</a>
-        <a href="" target="_blank" rel="noreferrer">
+	       </a>
+       
 			<img
 				src="https://img.shields.io/badge/-Shell%20Script%20-black"
 				alt="Shell Script"
 			/>
-		</a>
-        <a href="" target="_blank" rel="noreferrer">
+		
+       
 			<img
 				src="https://img.shields.io/badge/-Google%20Sheets%20-darkgreen"
 				alt="Google Sheets"
 			/>
-		</a>
-        <a href="" target="_blank" rel="noreferrer">
+		
+       
 			<img
 				src="https://img.shields.io/badge/-Reveal.js-yellow"
 				alt="Reveal.js"
 			/>
-		</a>
-		</a>
+		
+		
 		<a href="" target="_blank">
 			<img
 				src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
