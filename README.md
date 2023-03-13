@@ -38,13 +38,12 @@
 				alt="MySQL"
 			/>
 		</a>
-        <a href="" target="_blank" rel="noreferrer">
+      
 			<img
 				src="https://img.shields.io/badge/-Shell%20Script%20-black"
 				alt="Shell Script"
 			/>
 		</a>
-        <a href="" target="_blank" rel="noreferrer">
 			<img
 				src="https://img.shields.io/badge/-Google%20Sheets%20-darkgreen"
 				alt="Google Sheets"
