@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm B Prajwal</h1>
 <h4 align="center">An self-motivated and ambitious Tech Support Engineer. Skilled at analyzing complex problems and implementing effective solutions. Adept at communicating technical information to non-technical customers, ensuring excellent customer satisfaction.
 </h4>
-<a align="center" href=""><img src=""></a>
+<a align="center" href="https://github.com/shikha-max/readme-typing-svg"><img src=""></a>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=""  align="right" width="400px" height="300px" style="border-radius:50px"/>
 <!-- <p align="left"> <img src="" alt="avinashkvar" /> </p> -->
 <h1>About Me </h1>
@@ -38,12 +38,13 @@
 				alt="MySQL"
 			/>
 		</a>
-      
+        <a href="" target="_blank" rel="noreferrer">
 			<img
 				src="https://img.shields.io/badge/-Shell%20Script%20-black"
 				alt="Shell Script"
 			/>
 		</a>
+        <a href="" target="_blank" rel="noreferrer">
 			<img
 				src="https://img.shields.io/badge/-Google%20Sheets%20-darkgreen"
 				alt="Google Sheets"
