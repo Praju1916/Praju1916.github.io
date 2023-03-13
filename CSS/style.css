@@ -2,7 +2,7 @@
     /********* General CSS *********/
     /*******************************/
     body {
-        color: #797979;
+        color: #363535;
         background: #ffffff;
         font-family: 'Montserrat', sans-serif;
     }
@@ -207,7 +207,7 @@
         
         .navbar.nav-sticky {
             padding: 10px 60px;
-            background: #ffffff !important;
+            background: #787373 !important;
         }
         
         .navbar .navbar-brand {
@@ -221,7 +221,7 @@
         } */
 
         .navbar.nav-sticky .navbar-brand {
-            color: rgba(1, 35, 60, .43);
+            color: rgba(0, 1, 1, 0.43);
         }
 
         .navbar-light .navbar-nav .nav-link,
@@ -281,7 +281,7 @@
         margin-bottom: 45px;
         padding: 120px 0 0 0;
         overflow: hidden;
-        background: linear-gradient(rgba(1, 35, 60, .43), rgba(1, 35, 60, .43)), url(../img/hero-bg.jpg);
+        background: linear-gradient(rgba(8, 8, 8, 0.43), rgba(1, 35, 60, .43)), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHBuzmdhAX6c3-ZFbusvf3nSxOh5UrRzm_8A&usqp=CAU);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -543,6 +543,7 @@
         position: relative;
         width: 100%;
         margin: -45px 0 45px 0;
+        background: #e3dfdf;
     }
 
     .about .col-lg-6 {
@@ -562,7 +563,7 @@
     .space{
         width: 80px;
         height: 20px;
-        background-color: white;
+        background-color: rgb(183, 176, 176);
     }
     .about .about-img img {
         position: relative;
@@ -647,7 +648,7 @@
         content: '';
         position: absolute;
         width: 2px;
-        background: rgba(1, 35, 60, .43);
+        background: rgba(0, 12, 20, 0.43);
         top: 0;
         bottom: 0;
         left: 50%;
@@ -893,7 +894,7 @@
         padding-top: 3%;
         padding-bottom: 3%;
         align-items: center;
-        background: #ffffff;
+        background: #6c6e6c;
         box-shadow: 0 0 15px rgba(0, 0, 0, .12);
     }
 
@@ -904,6 +905,7 @@
         white-space: nowrap;
         overflow: hidden;
         text-align: center;
+        color: #ffffff;
     }
 
     .portfolio .portfolio-text a.btn {
@@ -949,7 +951,7 @@
     }
     .tech-text{
         text-align: center;
-        color: rgba(1, 35, 60, .43);
+        color: #ffffff;
     }
     @media screen and (max-width: 300px) {
         .portfolio-btns{
@@ -988,12 +990,14 @@
         grid-template-columns: 1fr 1fr 1fr 1fr;
         place-items: center;
         gap: 20px;
-        margin: 30px auto;
+        margin: 40px auto;
+      
     }
 
     @media screen and (max-width:950px) {
         .skills-icons{
             grid-template-columns: 1fr 1fr 1fr;
+            
         }
     }
     @media screen and (max-width:650px) {
@@ -1002,11 +1006,12 @@
         }
     }
     .skills-icons > *{
-        width: 110px;
+        width: 120px;
         height: 130px;
         transition: all 0.25s ease-in-out 0s;
         margin-bottom: 5%;
         position: relative;
+       
     }
     .skills-icons > div :hover{
         cursor: pointer;
@@ -1041,7 +1046,7 @@
     .footer {
         position: relative;
         margin-top: 45px;
-        background: linear-gradient(rgba(1, 35, 60, .43), rgba(1, 35, 60, .43)), url(../img/hero-bg.jpg);;
+        background: linear-gradient(rgba(1, 35, 60, .43), rgba(1, 35, 60, .43)), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHBuzmdhAX6c3-ZFbusvf3nSxOh5UrRzm_8A&usqp=CAU);;
         padding-bottom: 20px;
     }
 
