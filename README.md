@@ -1,4 +1,4 @@
-<img src="" alt="" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa9H77wwf6EpcLOVoh4HnPFayodRcAuTwqLw&usqp=CAU" alt="" />
 <h1 align="center">Hi 👋, I'm B Prajwal</h1>
 <h4 align="center">An self-motivated and ambitious Tech Support Engineer. Skilled at analyzing complex problems and implementing effective solutions. Adept at communicating technical information to non-technical customers, ensuring excellent customer satisfaction.
 </h4>
