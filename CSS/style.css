@@ -979,19 +979,41 @@
         width: 45%;
         font-size: 18px;
     }
+    .portfolio .portfolio-wrap {
+        position: relative;
+        width: 100%;
+    }
+}
+    .P{
+        margin-top: -35px;
+        margin-bottom: -5%;
     }
 
 
     /*******************************/
     /********* My Skills **********/
     /* ****************************/
+    .SK{
+        /* border: 1px solid black; */
+        background-color: lightcyan;
+        margin-top: -100px;
+    }
+    .SKT{
+        /* margin-top: 10%; */
+        padding: 15%;
+        margin-bottom: -10%;
+
+    }
+
     .skills-icons{
-        display: grid;
+        display:inline-flex;
         grid-template-columns: 1fr 1fr 1fr 1fr;
         place-items: center;
-        gap: 20px;
+        gap: 100px;
         margin: 40px auto;
+        margin-top: 5%;
       
+       /* border: 1px solid black; */
     }
 
     @media screen and (max-width:950px) {
