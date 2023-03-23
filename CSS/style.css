@@ -476,12 +476,15 @@ a:focus {
         display: block;
        justify-content: center;
        margin-left: 55%;
-        width: 50%;
+        width: 57%;
         height: 50%;
     }
     .hero .hero-image{
         width: 150%;
         margin-left: -75%;
+    }
+    .hero{
+        margin-bottom: -240px;
     }
 }
 
