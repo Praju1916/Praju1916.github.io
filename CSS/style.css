@@ -1039,6 +1039,7 @@ a:focus {
 .portfolio .portfolio-wrap {
     position: relative;
     width: 100%;
+    /* background-color: #0c0c0c; */
 }
 .project-margin{
     margin: 2%;
@@ -1127,13 +1128,18 @@ a:focus {
 }
 .tech-text{
     text-align: center;
-    color: rgba(7, 7, 7, 0.43);
+    color: #0e0e0e;
 }
 .P{
     margin-top: -35px;
     margin-bottom: -5%;
     display: flex;
 }
+#setbtn{
+    text-align:center;
+   color: #f9f8f8;
+}
+
 @media screen and (max-width: 300px) {
     .portfolio-btns{
         display: flex;
